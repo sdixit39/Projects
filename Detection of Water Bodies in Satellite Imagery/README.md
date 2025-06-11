@@ -12,7 +12,7 @@ The solution integrates advanced computer vision techniques and geospatial analy
 - Enable early detection of flooding risks from glacial melt.
 - Improve the accuracy of waterbody segmentation using state-of-the-art models.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Deep Learning Frameworks**: TensorFlow, PyTorch  
 - **Computer Vision Models**: YOLOv8  
